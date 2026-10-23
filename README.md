@@ -1,4 +1,4 @@
-Gym Management Database
+Gym Management Database Assignment
 
 This project demonstrates the design and implementation of a Gym Management Database using MySQL.
 
