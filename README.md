@@ -1,4 +1,4 @@
-GymDB
+Gym Management Database
 
 This project demonstrates the design and implementation of a Gym Management Database using MySQL.
 
